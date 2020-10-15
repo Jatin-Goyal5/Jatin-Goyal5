@@ -12,10 +12,10 @@
 
 
 ## Github
-![Jatin's github stats](https://github-readme-stats-20nuyv0gr.vercel.app/api?username=Jatin-Goyal5&count_private=true&show_icons=true&theme=prussian)
+![Jatin's github stats](https://github-readme-stats-20nuyv0gr.vercel.app/api?username=Jatin-Goyal5&count_private=true&include_all_commits=true&show_icons=true&theme=prussian)
 </br>
 
-[![Top Langs](https://github-readme-stats-20nuyv0gr.vercel.app/api/top-langs/?username=Jatin-Goyal5&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=prussian)](https://github.com/Jatin-Goyal5/github-readme-stats)
+[![Top Langs](https://github-readme-stats-20nuyv0gr.vercel.app/api/top-langs/?username=Jatin-Goyal5&langs_count=10&layout=compact&count_private=true&show_icons=true&theme=prussian)](https://github.com/Jatin-Goyal5/github-readme-stats)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
