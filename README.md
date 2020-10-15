@@ -20,7 +20,6 @@
 5. 💪 Opened PR [#17](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms/pull/17) in [shoaibrayeen/Data-Structures-and-Algorithms](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 
-</details>
-<img src="https://github-readme-stats.vercel.app/api?username=Jatin-Goyal5&&show_icons=true&title_color=ffffff&icon_color=ffa726&text_color=cddc39&bg_color=00acc1">
-
-
+## Github
+![Jatin's github stats](https://github-readme-stats-20nuyv0gr.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
+</br>
