@@ -9,6 +9,12 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: read manga 
 
+
+
+## Github
+![Jatin's github stats](https://github-readme-stats-20nuyv0gr.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
+</br>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -20,6 +26,3 @@
 5. 💪 Opened PR [#17](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms/pull/17) in [shoaibrayeen/Data-Structures-and-Algorithms](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 
-## Github
-![Jatin's github stats](https://github-readme-stats-20nuyv0gr.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
-</br>
