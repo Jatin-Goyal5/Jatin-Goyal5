@@ -12,7 +12,7 @@
 
 
 ## Github
-![Jatin's github stats](https://github-readme-stats-20nuyv0gr.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
+![Jatin's github stats](https://github-readme-stats-20nuyv0gr.vercel.app/api?username=Jatin-Goyal5&count_private=true&show_icons=true&theme=buefy)
 </br>
 
 <details>
