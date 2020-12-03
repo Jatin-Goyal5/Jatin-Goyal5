@@ -9,6 +9,12 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: read manga 
 
+### Badge
+<a href="https://dev.to/jatingoyal5">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jatin-Goyal5's DEV Profile" height="30" width="30">
+</a>
+     
+
 
 
 ## Github
@@ -27,4 +33,6 @@
 4. 💪 Opened PR [#18](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms/pull/18) in [shoaibrayeen/Data-Structures-and-Algorithms](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms)
 5. 💪 Opened PR [#17](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms/pull/17) in [shoaibrayeen/Data-Structures-and-Algorithms](https://github.com/shoaibrayeen/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
+
+
 
