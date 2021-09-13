@@ -2,10 +2,9 @@
 
 
 - 🔭 I’m currently a B.tech student 
-- 🌱 I’m currently learning mobile app development, Data structure and algorithm
+- 🌱 I’m currently learning Mern Stack, Data structure and algorithm
 - 👯 I’m looking to collaborate on project
-- 🤔 I’m looking for help with application development
-- 💬 Ask me about flutter and algorithm stuff
+- 💬 Ask me about algorithm stuff
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: read manga 
 
