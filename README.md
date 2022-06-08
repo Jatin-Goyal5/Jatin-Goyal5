@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Mern Stack, Data structure and algorithm
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about algorithm stuff
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: read manga 
 
 ### Badge
