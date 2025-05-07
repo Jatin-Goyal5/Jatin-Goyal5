@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently a B.tech student 
-- 🌱 I’m currently learning Mern Stack, Data structure and algorithm
+- 🌱 I’m currently learning Java, Spring Boot, J2EE, React.js
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about algorithm stuff
 - 😄 Pronouns: he/him
